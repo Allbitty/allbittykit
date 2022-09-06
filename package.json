@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
+  "dependencies": {
+    "@allbitty/allbittykit": "1.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Allbitty/allbittykit.git"
